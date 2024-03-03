@@ -63,7 +63,7 @@ This project aims to create a simple yet powerful calculator using JavaScript. T
 
 ## Screenshots
 
-![Calculator Screenshot](/screenshots/calculator.png)
+![Calculator Screenshot](/Screenshot (178).png)
 
 ## Credits
 
