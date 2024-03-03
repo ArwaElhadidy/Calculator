@@ -36,7 +36,7 @@ This project aims to create a simple yet powerful calculator using JavaScript. T
 
 ## Demo
 
-You can view a live demo of AgeCalculate [here](https://arwaelhadidy.github.io/Age-Calculate/).
+You can view a live demo of AgeCalculate [here](https://arwaelhadidy.github.io/Calculator/.)
 
 ## Credits
 Create innovative solutions using JavaScript
