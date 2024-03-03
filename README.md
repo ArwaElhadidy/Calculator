@@ -18,6 +18,10 @@ This project aims to create a simple yet powerful calculator using JavaScript. T
 
 ## Technologies Used
 
+- **HTML**: The markup language used to structure the content of the web page.
+
+- **CSS**: The styling language used to enhance the visual presentation of the web page.
+  
 - **JavaScript (JS)**: Used for implementing the calculator logic and functionality.
 
 ## Usage
