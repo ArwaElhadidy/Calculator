@@ -63,7 +63,7 @@ This project aims to create a simple yet powerful calculator using JavaScript. T
 
 ## Screenshots
 
-![Calculator Screenshot](https://github.com/ArwaElhadidy/Calculator/blob/main/Screenshot%20(178).png)
+[Calculator Screenshot](https://github.com/ArwaElhadidy/Calculator/blob/main/Screenshot%20(178).png)
 
 ## Credits
 
@@ -71,7 +71,7 @@ This project aims to create a simple yet powerful calculator using JavaScript. T
 
 ## Demo
 
-You can view a live demo of AgeCalculate [here]([https://your-username.github.io/agecalculate](https://arwaelhadidy.github.io/Age-Calculate/).
+You can view a live demo of AgeCalculate [here](https://arwaelhadidy.github.io/Age-Calculate/).
 
 ## Credits
 Create innovative solutions using JavaScript
